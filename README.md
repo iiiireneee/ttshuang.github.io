@@ -1,2 +1,2 @@
-# ttshuang.github.io
-Tan Tingshuang (Irene) Personal Page
+# Irene Tan's Page
+Tan Tingshuang (Irene) Personal Page (beta)
